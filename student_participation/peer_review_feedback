@@ -1,0 +1,3 @@
+No entities have a primary key we cannot we differentiate the primary keys from other attributes, 
+all the names don’t (including attributes) follow one naming convention,
+the diagram does not show the data type of all attributes
