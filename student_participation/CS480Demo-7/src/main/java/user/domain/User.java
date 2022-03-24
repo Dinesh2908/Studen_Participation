@@ -3,7 +3,7 @@ package user.domain;
 /**
  * User object
  * 
- * @author changxin bai
+ * 
  * 
  */
 public class User {
