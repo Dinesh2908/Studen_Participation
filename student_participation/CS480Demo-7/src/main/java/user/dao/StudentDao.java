@@ -12,7 +12,7 @@ import user.domain.Student;
 /**
  * DDL functions performed in database
  *
- * @author changxin bai
+ * 
  *
  */
 public class StudentDao {
