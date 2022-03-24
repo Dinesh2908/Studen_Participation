@@ -17,7 +17,7 @@ import user.domain.User;
 
 /**
  * DDL functions performed in database
- * @author changxin bai
+ * 
  *
  */
 public class UserDao {
