@@ -4,7 +4,7 @@ package user.domain;
 
 /**
  *
- * @author kundankumar
+ * 
  */
 public class Student {
 
