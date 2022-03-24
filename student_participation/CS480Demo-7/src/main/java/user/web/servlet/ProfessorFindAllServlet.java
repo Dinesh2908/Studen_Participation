@@ -9,7 +9,7 @@ import user.dao.ProfessorDao;
 
 /**
  *
- * @author kundankumar
+ * @author 
  */
 public class ProfessorFindAllServlet extends HttpServlet {
 
