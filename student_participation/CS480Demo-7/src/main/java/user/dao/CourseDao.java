@@ -17,7 +17,7 @@ import user.domain.Course;
 
 /**
  * DDL functions performed in database
- * @author changxin bai
+ *
  *
  */
 public class CourseDao {
