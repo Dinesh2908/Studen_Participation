@@ -12,7 +12,7 @@ import user.domain.Question;
 /**
  * DDL functions performed in database
  *
- * @author changxin bai
+ * 
  *
  */
 public class QuestionDao {
