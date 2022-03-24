@@ -1,6 +1,6 @@
 Read me file:
 
-Students need to import the CSC4710Demo.war into Eclipse workspace and open the structure of this project. 
+import into Eclipse workspace and open the structure of this project. 
 
 Step 1: Open the readme file in the location ~/WebContent/readme
 Step 2: Run the user.sql script 
