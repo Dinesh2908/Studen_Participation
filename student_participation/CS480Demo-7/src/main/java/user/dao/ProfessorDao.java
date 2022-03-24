@@ -12,7 +12,7 @@ import user.domain.Professor;
 /**
  * DDL functions performed in database
  *
- * @author changxin bai
+ * 
  *
  */
 public class ProfessorDao {
